@@ -68,7 +68,7 @@
 
    <h2>🚀 Getting Started</h2>
     <p>Clone the repository:</p>
-    <pre><code>git clone https://github.com/&lt;your_username&gt;/Multi_Language_Projects.git</code></pre>
+    <pre><code>git clone https://github.com/&lt;karan-aher&gt;/PROJECTS.git</code></pre>
 
    <p>Navigate to the folder:</p>
     <pre><code>cd Multi_Language_Projects</code></pre>
