@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Multi-Language Projects Repository</title>
 </head>
 <body>
     <h1>Multi-Language Projects Repository 🌟</h1>
