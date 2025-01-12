@@ -61,7 +61,7 @@
 
    <h3>CSS Projects</h3>
     <ul>
-       <li><strong>Responsive Web Page</strong>: A simple responsive web page layout using CSS Grid and Flexbox.</li>
+       <li><strong>CSS Blossoming Flowers at Magical Night</strong>:This CSS animation concept depicts a serene and magical night where flowers gracefully blossom under a starlit sky. The design combines soft colors, smooth transitions, and elegant animations to evoke a calming and enchanting atmosphere..</li>
     </ul>
 
    <hr>
