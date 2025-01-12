@@ -1,6 +1,5 @@
 # Blossoming Flowers at Magical Night
 
-![Blossoming Flowers Banner](https://via.placeholder.com/800x200?text=Blossoming+Flowers+at+Magical+Night)
 
 ## 🌟 Project Description
 **Blossoming Flowers at Magical Night** is a mesmerizing CSS animation project that showcases flowers gracefully blooming under a starlit sky. The animation combines soft gradients, glowing effects, and seamless transitions to create a tranquil and magical visual experience. Perfect for those who appreciate the beauty of nature blended with the magic of the night.
