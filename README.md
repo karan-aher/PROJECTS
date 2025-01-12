@@ -38,7 +38,7 @@
    <h2>📖 Projects Overview</h2>
     <h3>Python Projects</h3>
    <ul>
-        <li><strong>Title</strong>:description</li>
+        <li><strong>Password Analyzer</strong>: A tool to evaluate password strength and suggest improvements.</li>
     </ul>
 
    <h3>Java Projects</h3>
