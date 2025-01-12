@@ -106,7 +106,7 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 ## 📩 Contact
 Feel free to reach out if you have questions or suggestions:
-- **GitHub**: [Your Username](https://github.com/karan-aher)
+- **GitHub**: [Karan Aher](https://github.com/karan-aher)
 - **Email**: mr.karanaher@gmail.com
 
 ---
