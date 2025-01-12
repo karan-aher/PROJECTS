@@ -23,7 +23,7 @@
 ### 2⃣ Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/password-analyzer.git
+   git clone https://github.com/karan-aher/pass-analyzer.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -33,7 +33,7 @@
 ### 3⃣ Usage
 Run the program by executing the following command:
 ```bash
-python password_analyzer.py
+python pass_analyzer.py
 ```
 
 Enter your password when prompted, and the tool will evaluate its strength and provide feedback.
